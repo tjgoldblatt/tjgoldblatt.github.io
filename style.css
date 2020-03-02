@@ -1,0 +1,19 @@
+.photo {
+    width: 200px;
+    height: 200px;
+}
+
+.p1 {
+    float: left;
+    width: 49%;
+}
+
+.p2 {
+    float: right;
+    width: 49%;
+
+}
+
+.class {
+    float: right;
+}
