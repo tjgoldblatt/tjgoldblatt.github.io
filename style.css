@@ -1,37 +1,10 @@
-#nButton {
-    background: red;
+#button {
+    background-color: darkred;
     padding: .15em .3em;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 10pt;
-    color: black;
-}
-
-#aButton {
-    background-color: red;
-    padding: .15em .3em;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 10pt;
-    color: black;
-}
-
-#pButton {
-    background-color: red;
-    padding: .15em .3em;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 10pt;
-    color: black;
-}
-
-#cButton {
-    background-color: red;
-    padding: .15em .3em;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 10pt;
-    color: black;
+    font-size: 8pt;
+    color: white;
 }
 
 .photo {
@@ -54,8 +27,12 @@
     float: right;
 }
 
+h1 {
+    color: darkred;
+}
+
 h2 {
-    color: red;
+    color: darkred;
 }
 
 h3 {
