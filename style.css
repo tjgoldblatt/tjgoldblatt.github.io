@@ -1,6 +1,6 @@
 #nButton {
     background: red;
-    padding: .3em .5em;
+    padding: .15em .3em;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10pt;
@@ -9,7 +9,7 @@
 
 #aButton {
     background-color: red;
-    padding: .3em .5em;
+    padding: .15em .3em;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10pt;
@@ -18,7 +18,7 @@
 
 #pButton {
     background-color: red;
-    padding: .3em .5em;
+    padding: .15em .3em;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10pt;
@@ -27,7 +27,7 @@
 
 #cButton {
     background-color: red;
-    padding: .3em .5em;
+    padding: .15em .3em;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 10pt;
@@ -35,8 +35,8 @@
 }
 
 .photo {
-    width: 200px;
-    height: 200px;
+    width: 15%;
+    height: auto;
 }
 
 .p1 {
